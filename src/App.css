@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+*{
+  background-color: rgb(110, 188, 204);
+}
+
+.label{
+  font-size: 20px;
+  font-display: none;
+  color:#fff;
+}
+#lg{
+  color: rgb(13, 12, 1);
+}
+body{
+   background-image: url("./assets/nature.jpg");
+   background-size: cover;
+   
+}
+/* @media only screen and (max-width: 600px) {
+  body {
+    background-image: url("./assets/nature.jpg");
+    background-size: cover;
+  }
+} */
