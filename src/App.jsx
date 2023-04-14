@@ -22,7 +22,7 @@ function App() {
   }
     return (
     <>
-
+     <Timer/>
       <div className='container'>
         <h1 id="lg">Login Form</h1>
         <Form>
